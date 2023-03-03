@@ -1,3 +1,4 @@
 # tribute-page
-Atribute page to MSD using HTML, CSS, JS
+A tribute page to MSD using HTML, CSS, JS
+
 Visit the site here:
